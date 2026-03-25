@@ -1,6 +1,3 @@
 # My_DSP_Code
 基于TMS320F28335的eCAN模块底层配置，已测试成功
-本项目所用芯片TMS320F28335
-主要编写了eCAN模块的底层配置
-存放于eCAN_Device文件夹中
-eCAN_Device.c中存放底层函数，eCAN_test.c中注册设备以及测试
+
